@@ -6,7 +6,7 @@
 
 # TABLAS ESTADÍSTICAS DE DOS O MÁS VARIABLES
 
-setwd("M:/RTRABAJO/INF")
+setwd("C:/Users/anton/Documents/Programacion/Estadistica/Lab 05 Estad�stica descriptiva bidimensional-20191216")
 load("HIPER200.RData")
 attach(HIPER200)
 
